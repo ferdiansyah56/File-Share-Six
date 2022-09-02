@@ -1,5 +1,4 @@
-# FILE-MULTI-SUB
-
+# FILE SHARING WITH FORCE JOIN
 
 - Sepenuhnya dapat dicustom.
 - Dapat di-deploy di heroku & vps.
