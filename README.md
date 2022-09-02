@@ -17,13 +17,13 @@
 ### Installation
 
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zldaprojects/FILE-6-SUB)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zldaprojects/File-Share-Six)</br>
 
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/ferdiansyah56/File-VI-Sub
-cd File-Sharing-Man
+git clone https://github.com/ferdiansyah56/File-Share-Six
+cd File-Share-Six
 pip3 install -r requirements.txt
 cp sample_config.env config.env
 # edit config.env Anda dan isi VARS menggunakan nano config.env CTRL + S untuk menyimpan VARS Anda, 
